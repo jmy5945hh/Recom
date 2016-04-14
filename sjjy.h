@@ -36,3 +36,5 @@ bool cmp(preRes x, preRes y);
 float bayesRate(int totalCount, float totalAvg, int itemCount, float itemAvg);
 
 #endif
+
+//test
